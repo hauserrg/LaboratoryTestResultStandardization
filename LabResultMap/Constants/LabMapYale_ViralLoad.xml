@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mustMatchRegex>
+  <regex name="Million">
+    ^(&lt;|&gt;|&lt;=|&gt;=)? ?((0|([1-9](\d{0,11}|\d{0,2}(,\d{3}){0,3})))(\.\d{0,6})?|\.\d{1,6}) (million|mill|mil)$
+  </regex>
+  <regex name="Numeric">
+    ^(&lt;|&gt;|&lt;=|&gt;=)? ?((0|([1-9](\d{0,11}|\d{0,2}(,\d{3}){0,3})))(\.\d{0,6})?|\.\d{1,6})( HCV RNA| DETECTED)?$
+  </regex>
+  <regex name="ExponentialLog">
+    ^(&lt;|&gt;|&lt;=|&gt;=)? ?((0|([1-9](\d{0,11}|\d{0,2}(,\d{3}){0,3})))(\.\d{0,6})?|\.\d{1,6})(E|X10E)\+?(\d{1,2})(\(((0|([1-9](\d{0,11}|\d{0,2}(,\d{3}){0,3})))(\.\d{0,6})?|\.\d{1,6}) ?(log)\)$)?
+  </regex>
+  <regex name="NonExponentialLog">
+    ^(&lt;|&gt;|&lt;=|&gt;=)? ?((0|([1-9](\d{0,11}|\d{0,2}(,\d{3}){0,3})))(\.\d{0,6})?|\.\d{1,6}) ?((\(|\/ ?)(log)?(&lt;|&gt;|&lt;=|&gt;=)? ?((0|([1-9](\d{0,11}|\d{0,2}(,\d{3}){0,3})))(\.\d{0,6})?|\.\d{1,6}) ?(log)?\)?) ?(IU/mL)?$
+  </regex>
+  <comment>
+    Unit tests:
+    Types of good:
+    Million:
+    1.01 MILLION
+    1.01 mil
+    1.01 mill
+    .01 mILLION
+
+    Numeric:
+    0.150
+    &lt; 1,234,567
+    1.0
+    0.1
+    1234
+    1,234
+    1234.
+    1,234.
+    1,234,567
+    >700,000 HCV RNA
+
+    Exponential log:
+    &lt;1.0E+6
+    &lt;1.0E+6(1.2 log)
+    12.5E6
+    &lt; 12.5E6
+    12E6
+    >5.0X10E5
+
+    Non-exponential log:
+    &lt;1234456 (6.1 log)
+    1234456(6.1 log)
+    &lt;1234456 (6 log)
+    &lt;1234456 ( 6.1 log)
+    1,234,567 (6 log)
+    1,234,567 (6.5 log)
+    1,234,567 (&lt;6.5 log)
+    1,234,567 (&lt;6.5 LOG)
+    &lt; 1,234,567 (6 log)
+    &lt;1,234,567 (6.5 log)
+    &lt;1,234,567 (&lt;6.5 log)
+    &lt; 1,234,567 (&lt;6.5 LOG)
+    &gt;850,000 / &gt;5.93 LOG
+	&gt;500,000/&gt;5.70log
+
+  Bad:
+  .00 MILLION
+  &lt;1234456 (6.1 logged)
+    &lt;1,2344,56 (6.1 log)
+
+  </comment>
+</mustMatchRegex>

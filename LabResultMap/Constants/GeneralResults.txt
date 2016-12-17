@@ -1,0 +1,199 @@
+﻿Comment	Non-standard Result
+Comment:	Non-standard Result
+RESULT/COMMENT:	Non-standard Result
+See Comment	Non-standard Result
+See scanned report	Non-standard Result
+See Below	Non-standard Result
+Not Applicable	Non-standard Result
+Invalid Result	Non-standard Result
+DONE	Non-standard Result
+----	Non-standard Result
+.....	Non-standard Result
+:::::	Non-standard Result
+Pending	Non-standard Result
+SEE NOTE	Non-standard Result
+#	Non-standard Result
+##	Non-standard Result
+#########	Non-standard Result
+#z	Non-standard Result
+z*	Non-standard Result
+z#	Non-standard Result
+%	Non-standard Result
+*	Non-standard Result
+**	Non-standard Result
+***	Non-standard Result
+*********	Non-standard Result
+(	Non-standard Result
+*]	Non-standard Result
+*}	Non-standard Result
+X-NORESULT	Non-standard Result
+not reported	Non-standard Result
+&	Non-standard Result
+xxxx	Non-standard Result
+*\	Non-standard Result
+*&	Non-standard Result
+*(	Non-standard Result
+*|	Non-standard Result
+@	Non-standard Result
+?.....	Non-standard Result
+>	Non-standard Result
+<	Non-standard Result
+#$	Non-standard Result
+#.	Non-standard Result
+#]	Non-standard Result
+$#	Non-standard Result
+&*	Non-standard Result
+(*	Non-standard Result
+*'	Non-standard Result
+#@	Non-standard Result
+$	Non-standard Result
+*(]	Non-standard Result
+@@	Non-standard Result
+\N	Non-standard Result
+@#	Non-standard Result
+\	Non-standard Result
+A	Non-standard Result
+ALL	Non-standard Result
+CP	Non-standard Result
+DQ	Non-standard Result
+DUPLICATE SPECIMEN	Non-standard Result
+E	Non-standard Result
+EG	Non-standard Result
+EQ	Non-standard Result
+EQU	Non-standard Result
+G	Non-standard Result
+H	Non-standard Result
+I	Non-standard Result
+Invalid	Non-standard Result
+JM	Non-standard Result
+JML	Non-standard Result
+N	Non-standard Result
+N/A	Non-standard Result
+N4EG	Non-standard Result
+NA	Non-standard Result
+N/I	Non-standard Result
+NI	Non-standard Result
+NO	Non-standard Result
+-	Non-standard Result
+B	Non-standard Result
+hae	Non-standard Result
+halt	Non-standard Result
+ned	Non-standard Result
+poc	Non-standard Result
+urine	Non-standard Result
+Confirmation Pending	Non-standard Result
+ERROR	Non-standard Result
+NEG3	Non-standard Result
+NO SPEC	Non-standard Result
+ND	Non-standard Result
+NE	Non-standard Result
+NE3G	Non-standard Result
+NEF	Non-standard Result
+NEGA	Non-standard Result
+NEGE	Non-standard Result
+NEGH	Non-standard Result
+NEH	Non-standard Result
+NEHG	Non-standard Result
+NER	Non-standard Result
+NERG	Non-standard Result
+NEWG	Non-standard Result
+NFEG	Non-standard Result
+NG	Non-standard Result
+NHEG	Non-standard Result
+NO RESULT	Non-standard Result
+NoResult	Non-standard Result
+NP	Non-standard Result
+NR	Non-standard Result
+NRG	Non-standard Result
+NT	Non-standard Result
+NULL	Non-standard Result
+N.D.	Non-standard Result
+Not	Non-standard Result
+NWG	Non-standard Result
+NY	Non-standard Result
+P	Non-standard Result
+PEN.	Non-standard Result
+PEND	Non-standard Result
+PIS	Non-standard Result
+PO	Non-standard Result
+POD	Non-standard Result
+PreliminaryPositive	Non-standard Result
+PresPos	Non-standard Result
+PRESUMPTIVE POSITIVE	Non-standard Result
+PresumptvePOS	Non-standard Result
+unable to calculate	Non-standard Result
+QN	Non-standard Result
+QS	Non-standard Result
+R	Non-standard Result
+RET	Non-standard Result
+RETEST	Non-standard Result
+See Report	Non-standard Result
+TEST	Non-standard Result
+TWH	Non-standard Result
+WASH	Non-standard Result
+NoValue	Non-standard Result
+}*	Non-standard Result
+ALLRRNRO	Non-standard Result
+OL	Non-standard Result
+RNRO	Non-standard Result
+SD	Non-standard Result
+SDOH	Non-standard Result
+HEMOLYZED	Not Performed
+NONREPORTABLE	Not Performed
+NOTREPORTED	Not Performed
+not ordered	Not Performed
+pt. ref	Not Performed
+pt. ref.	Not Performed
+refused	Not Performed
+REFUSED.	Not Performed
+Cancelled	Not Performed
+CANCELED	Not Performed
+CANCEL	Not Performed
+Canc	Not Performed
+Qns	Not Performed
+Test Not Performed	Not Performed
+Tnp	Not Performed
+TnpOld	Not Performed
+Not Performed	Not Performed
+.	Not Performed
+NOT DONE	Not Performed
+NOT TESTED	Not Performed
+NQS	Not Performed
+Q.N.S.	Not Performed
+QNS.	Not Performed
+No specimen received.	Not Performed
+Not needed	Not Performed
+VIALS NOT REC'D	Not Performed
+SCREEN NEG,TEST NOT PERFORMED	Not Performed
+SCREEN NEG. NOT PERFORMED	Not Performed
+SCREEN NEG/TEST NOT PERFORMED	Not Performed
+SCREEN NEGATIVE,NOT PERFORMED	Not Performed
+TITER NOT PERFORMED	Not Performed
+TNP SCREEN NEG	Not Performed
+TNP-ANCA SCREEN NEG	Not Performed
+TNP-SCREENING NEG	Not Performed
+TNP-SCREENING TEST NEGATIVE	Not Performed
+TNP-TESTING NOT REQUIRED	Not Performed
+TNP=SCREEN NEG	Not Performed
+TEST NOT INDICATED	Not Performed
+REST NOT INDICATED	Not Performed
+TEAT NOT INDCATED	Not Performed
+TEST NO INDICATED	Not Performed
+TEST NOT INDECATED	Not Performed
+test not indicated\	Not Performed
+TEST NOT INDICATES	Not Performed
+TEST NOT INDICATION	Not Performed
+TEST NOT INDICTED	Not Performed
+TESTING IS NOT INDICATED	Not Performed
+TESTING NOT INDICATED	Not Performed
+TESTS NOT INDICATED	Not Performed
+TNP-SCREEN NEG	Not Performed
+TNP-SCREEN NEGATIVE	Not Performed
+NOT IND	Not Performed
+NOT INDICATED	Not Performed
+NOTIND	Not Performed
+NO SPECIMEN	Not Performed
+CANCE	Not Performed
+TEST NOT DETECTED	Not Performed
+TEST NOT INDICATD	Not Performed
+TEST  NOT INDICATED	Not Performed

@@ -1,0 +1,706 @@
+﻿Plus	1+	1+
+Plus	2+	2+
+Plus	3+	3+
+Plus	4+	4+
+Plus	4+(PACKED FIELD)	4+
+Binary	Indetermnt	Indet
+Binary	INDET.	Indet
+Binary	INDETERMINATE H	Indet
+Binary	INDETERMINAT	Indet
+Binary	INDTERM	Indet
+Binary	INTERMINATE	Indet
+Binary	INDETERMINATE H*	Indet
+Binary	INDERTERM.	Indet
+Binary	WEAK POSITIVE	Indet
+Binary	Weak	Indet
+Binary	Equivocal	Indet
+Binary	 EQUIVOCAL	Indet
+Binary	EQIV	Indet
+Binary	EQUIV.	Indet
+Binary	Equivical	Indet
+Binary	EQUIVO	Indet
+Binary	EQUIVOC	Indet
+Binary	EQUIVOCA	Indet
+Binary	EQUVL	Indet
+Binary	 INDETERMINATE	Indet
+Binary	BDL	Indet
+Binary	BDRLINE	Indet
+Binary	BODERLINE	Indet
+Binary	BOR	Indet
+Binary	BORDERL	Indet
+Binary	BORDERLIN	Indet
+Binary	BORDERLINE	Indet
+Binary	BORDERLINE POS	Indet
+Binary	BORDERLINE POS.	Indet
+Binary	BORDERLINE POSITIVE	Indet
+Binary	BORDERLING	Indet
+Binary	BORDRELINE	Indet
+Binary	BRDLN	Indet
+Binary	BRDLNE	Indet
+Binary	BRDRLNE	Indet
+Binary	EOUIVOCAL	Indet
+Binary	EQIVOCAL	Indet
+Binary	EQUICOVAL	Indet
+Binary	EQUIOVOCAL	Indet
+Binary	EQIVO	Indet
+Binary	EQUIV	Indet
+Binary	EQUIVICOL	Indet
+Binary	EQUIVOCAL*	Indet
+Binary	EQUIVOCL	Indet
+Binary	EQUIVOVAL	Indet
+Binary	EQUVCL	Indet
+Binary	EQUVO	Indet
+Binary	GRAY ZONE	Indet
+Binary	GRAYZONE	Indet
+Binary	GRAYZONE.	Indet
+Binary	Greyzone	Indet
+Binary	INCONCLUSIVE	Indet
+Binary	IND	Indet
+Binary	IND FOR HCV	Indet
+Binary	IND.	Indet
+Binary	Indereminate	Indet
+Binary	INDERERMINATE	Indet
+Binary	inderminate	Indet
+Binary	INDERT.	Indet
+Binary	INDETERM*	Indet
+Binary	inderterminate	Indet
+Binary	INDET	Indet
+Binary	INDETE	Indet
+Binary	INDETEMINATE	Indet
+Binary	INDETER	Indet
+Binary	Indeter.	Indet
+Binary	INDETERIMANTE	Indet
+Binary	INDETERINATE	Indet
+Binary	INDETERM	Indet
+Binary	INDETERM.	Indet
+Binary	INDETERMIATE	Indet
+Binary	INDETERMIN	Indet
+Binary	INDETERMINANT	Indet
+Binary	INDETERMINANTE	Indet
+Binary	INDETERMINARE	Indet
+Binary	INDETERMINATE	Indet
+Binary	INDETERMINATED	Indet
+Binary	INDETERMINATR	Indet
+Binary	INDETERMINE	Indet
+Binary	INDETERMINNATE	Indet
+Binary	INDETERMINTE 	Indet
+Binary	INDETERMNATE	Indet
+Binary	INDETERMONATE	Indet
+Binary	INDETERN.	Indet
+Binary	INDETERNIMATE	Indet
+Binary	indetetminate	Indet
+Binary	INDETR.	Indet
+Binary	INDETRM	Indet
+Binary	INDETRM.	Indet
+Binary	INDETRMINAT	Indet
+Binary	INDETRMINATE	Indet
+Binary	INDEWTERMMINATE	Indet
+Binary	INDITER	Indet
+Binary	INDTER	Indet
+Binary	INDTERMINATE	Indet
+Binary	INTEDETMINATE	Indet
+Binary	INTERMEDIATE	Indet
+Binary	Inteterminate	Indet
+Binary	L0W-POS	Indet
+Binary	LOS POS	Indet
+Binary	LOW  POS	Indet
+Binary	LOW POS	Indet
+Binary	LOW POSITIVE	Indet
+Binary	LOW REACTIVE	Indet
+Binary	LOWPOS	Indet
+Binary	LOW-POS	Indet
+Binary	LowPositive	Indet
+Binary	LOW-POSITIVE	Indet
+Binary	LOWW POS	Indet
+Binary	NIDETERMINATE	Indet
+Binary	POS BORDERLINE	Indet
+Binary	POS(BORDERLINE)	Indet
+Binary	POS/BORDERLINE	Indet
+Binary	WEAK POS	Indet
+Binary	WEAKL POS	Indet
+Binary	WK.POS	Indet
+Binary	WK.POS#	Indet
+Binary	WK.POS.	Indet
+Binary	1LOW POS	Indet
+Binary	EWAK POS	Indet
+Binary	WKLY POS	Indet
+Binary	WeakPos	Indet
+Binary	WK POS	Indet
+Binary	WKPOS	Indet
+Binary	INDETERMINED	Indet
+Binary	P0SITIVE	Pos
+Binary	POSITIVE.	Pos
+Binary	CLOSTRIDIUM DIFFICILE TOXIN A POSITIVE	Pos
+Binary	POSITIVIE	Pos
+Binary	RPT REACT	Pos
+Binary	POSITIVE	Pos
+Binary	Present	Pos
+Binary	ABNORMAL	Pos
+Binary	Immune	Pos
+Binary	POS	Pos
+Binary	Positive for H. pylori Antigen	Pos
+Binary	 POS	Pos
+Binary	 POS.	Pos
+Binary	Pos:	Pos
+Binary	***POS	Pos
+Binary	**POS	Pos
+Binary	**POSITIVE	Pos
+Binary	POS SEE COMMENT	Pos
+Binary	DETECTED	Pos
+Binary	[POSITIVE	Pos
+Binary	CONFIRMED	Pos
+Binary	CONF	Pos
+Binary	CONFIR	Pos
+Binary	CONFIRM	Pos
+Binary	CONFIRMED'	Pos
+Binary	CONFRMD	Pos
+Binary	CON POS	Pos
+Binary	CONFIRMED POSITIVE	Pos
+Binary	CONFIRMEDPOSITIVE	Pos
+Binary	CONPOS	Pos
+Binary	SCRNPOS	Pos
+Binary	SCRNPOIS	Pos
+Binary	SCRN-POS	Pos
+Binary	SCRNPOSITIVE	Pos
+Binary	SCRPOS	Pos
+Binary	SCRPOSITIVE	Pos
+Binary	SRCNPOS	Pos
+Binary	SRNPOS	Pos
+Binary	P[OS	Pos
+Binary	P[OSITIVE	Pos
+Binary	P0S	Pos
+Binary	PODITIVE	Pos
+Binary	POPSITIVE	Pos
+Binary	POS'	Pos
+Binary	POS CONF.	Pos
+Binary	POS H	Pos
+Binary	POS H*	Pos
+Binary	POS#	Pos
+Binary	POS*	Pos
+Binary	POS,	Pos
+Binary	POS.	Pos
+Binary	POS]	Pos
+Binary	POSIITIVE	Pos
+Binary	POSIITVE	Pos
+Binary	POSIIVE	Pos
+Binary	POSIRIVE	Pos
+Binary	POSITIBE	Pos
+Binary	POSITIE	Pos
+Binary	POSITIEVE	Pos
+Binary	POSITIIVE	Pos
+Binary	POSITITVE	Pos
+Binary	POSITIV	Pos
+Binary	POSITIVE 	Pos
+Binary	POSITIVE\	Pos
+Binary	POSITIVE]	Pos
+Binary	POSITIVEV	Pos
+Binary	POSITIVVE	Pos
+Binary	POSITTIVE	Pos
+Binary	POSITVE	Pos
+Binary	POSOTIVE	Pos
+Binary	POSTIIVE	Pos
+Binary	POSTITIVE	Pos
+Binary	POSTIVE	Pos
+Binary	PPOSITIVE	Pos
+Binary	PSO	Pos
+Binary	PSOITIVE	Pos
+Binary	REAC	Pos
+Binary	REACITVE	Pos
+Binary	React	Pos
+Binary	REACTIVE	Pos
+Binary	DET	Pos
+Binary	Deteced	Pos
+Binary	DECTECTED	Pos
+Binary	A lupus anticoagulant is detected	Pos
+Binary	A lupus anticoagulant is detected.	Pos
+Binary	DETECT	Pos
+Binary	DETECTD	Pos
+Binary	POCITIVE	Pos
+Binary	POITIVE	Pos
+Binary	POSISTIVE	Pos
+Binary	POSITICE	Pos
+Binary	POSITINVE	Pos
+Binary	POSITIVE'	Pos
+Binary	POSITIVE H	Pos
+Binary	REACTIVE*	Pos
+Binary	1POSITIVE	Pos
+Binary	POSITIVES	Pos
+Binary	POSIYIVE	Pos
+Binary	POS-SCRN	Pos
+Binary	POSTIVIE	Pos
+Binary	SCNPOS	Pos
+Binary	SCREENP0S	Pos
+Binary	SCREENPOS	Pos
+Binary	REPEATEDLY REACTIVE	Pos
+Binary	POSATIVE	Pos
+Binary	POSITUVE	Pos
+Binary	POSITVIE	Pos
+Binary	POST	Pos
+Binary	POSTYIVE	Pos
+Binary	POTITIV	Pos
+Binary	PSITIVE	Pos
+Binary	SCREEN POS	Pos
+Binary	[POS	Pos
+Binary	POSISIVE	Pos
+Binary	POSSITIVE	Pos
+Binary	POSITVIVE	Pos
+Binary	Pos-	Pos
+Binary	POSITIVE FOR HCV RNA IN THIS SAMPLE	Pos
+Binary	D	Pos
+Binary	DETEC	Pos
+Binary	POSITIVE FOR HEPATITIS C VIRAL RNA	Pos
+Binary	POSITIVE FOR HEPATITIS C RNA IN THIS SAMPLE	Pos
+Binary	HCV RNA DETECTED	Pos
+Binary	IMMUME	Pos
+Binary	IMUNE	Pos
+Binary	IMUNNE	Pos
+Binary	CONFIRMED NEG	Neg
+Binary	NO -IMMUNE	Neg
+Binary	NON-IMMUNE	Neg
+Binary	NONIMMUNE	Neg
+Binary	N0N-IMMUNE	Neg
+Binary	NON-IMMMUNE	Neg
+Binary	NON-IMUNE	Neg
+Binary	No Growth of Methicillin Resistant S.aureus (MRSA)	Neg
+Binary	HBV DNA DETECTED	Neg
+Binary	CRYPTOSPORIDIUM OOCYSTS SEEN	Pos
+Binary	CRYPTOSPRIDIUM OOCYSTS SEEN	Pos
+Binary	GIARDIA LAMBLIA CYST SEEN	Pos
+Binary	Giardia lamblia cysts seen	Pos
+Binary	NNO CRYTPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO  CRYPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO 00CYSTA SEEN	Neg
+Binary	NO 00CYSTS SEEN	Neg
+Binary	NO C. OOCYSTS SEEN	Neg
+Binary	NO C.OOCYSTS SEEN	Neg
+Binary	NO CRPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	No Crpytosporidium oocysts seen	Neg
+Binary	NO CRTPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRUPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPOTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPOTOSPORIDUM OOCYSTS SEEN	Neg
+Binary	NO CRYPOTSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPROSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTO OOCYSTS SEEN	Neg
+Binary	NO CRYPTOAPORIDIUM OOCYSTS SEEN	Neg
+Binary	No Cryptocsporidium oocysts seen	Neg
+Binary	NO CRYPTODPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPOIDIUM OOCYTES SEEN	Neg
+Binary	NO CRYPTOSPORDIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORDIUM OOCYTES SEEN	Neg
+Binary	NO CRYPTOSPORIDIA OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIDIA\UM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIDIM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIDIUM  OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIDIUM OCCYSTS SEEN	Neg
+Binary	No Cryptosporidium ooccysts seen	Neg
+Binary	NO CRYPTOSPORIDIUM OOCUSTS SEEN	Neg
+Binary	No Cryptosporidium oocyst seen	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSTES SEEN	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSTS	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSTS SEE	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSTS SEEEN	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSTS SEEN'	Neg
+Binary	No Cryptosporidium oocysts seen.	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSTS SEEN\	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSTS SEENS	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSTS SSEN	Neg
+Binary	NO CRYPTOSPORIDIUM OOCYSYS SEEN	Neg
+Binary	No Cryptosporidium oocytes seen	Neg
+Binary	No Cryptosporidium oocyts seen	Neg
+Binary	NO CRYPTOSPORIDIUM OODCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIDIUM OODYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIDIUM OOOCYTS SEEN	Neg
+Binary	NO CRYPTOSPORIDIUM OR CYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIDIUM SEEN	Neg
+Binary	NO CRYPTOSPORIDIUN OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIDUM OOCYSTS SEEN	Neg
+Binary	NO OOCYSTS	Neg
+Binary	NO OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORIUM OOCYSTS  SEEN	Neg
+Binary	NO CRYPTOSPORODIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPORTIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPOTIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPRIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPRIIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPROIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTOSPRORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYPTSPORIDIUM OOCYSTS SEEN	Neg
+Binary	No Cryrtosporidium seen	Neg
+Binary	NO CRYTOSPORIDIA OOCYSTS SEEN	Neg
+Binary	NO CRYTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYTOSPORIDIUM OOCYTS SEEN	Neg
+Binary	NO CRYTOSPORIDIUM OR CYSTS SEEN	Neg
+Binary	NO CRYTOSPORIDIUM SEEN	Neg
+Binary	NO CRYTOSPORIDIUMOOCYSTS SEEN	Neg
+Binary	No Crytosporridium oocysts seen	Neg
+Binary	NO CRYTPOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYTPSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYTPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYTSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CRYYPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CTYPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CYPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NO CYSTS SEEN	Neg
+Binary	NO oocysta seen	Neg
+Binary	No Oocysts seen.	Neg
+Binary	NO OOCYTS SEEN	Neg
+Binary	NO OOCYTS SEEN.	Neg
+Binary	NO OVA AND PARASITES SEEN	Neg
+Binary	NO OVA OR PARASITES	Neg
+Binary	NO VRYPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	NOCRYPTOSPORIDIUM OOCYSTS SEEN	Neg
+Binary	Not confir	Neg
+Binary	.NEGATIVE	Neg
+Binary	C DIFF TOXIN A TEST:  NEGATIVE	Neg
+Binary	C. DIFF TOXIN A TEST NEGATIVE	Neg
+Binary	CLOSTRIDIUM DIFFICILE TOXIN A NEGATIVE	Neg
+Binary	HNEG	Neg
+Binary	NEFATIVE	Neg
+Binary	GNEG	Neg
+Binary	NEGG	Neg
+Binary	N0N-REACTIVE	Neg
+Binary	NON REACITVE	Neg
+Binary	NON-REACTIE	Neg
+Binary	NON-REACTVE	Neg
+Binary	NON-REACTVIVE	Neg
+Binary	NON-REAVTIVE	Neg
+Binary	NON-REWACTIVE	Neg
+Binary	NON0REACTIVE	Neg
+Binary	NONOREATIVE	Neg
+Binary	nonreactiv	Neg
+Binary	nonreactiv3	Neg
+Binary	NONREATIVE	Neg
+Binary	NON SEEN	Neg
+Binary	NONESEEN	Neg
+Binary	NONSEEN	Neg
+Binary	Not Deteced	Neg
+Binary	Not detecetd	Neg
+Binary	NP CRYPTOSPORIDIUM OOCYSTS SEEN
+Binary	NEGATIVE	Neg
+Binary	Negative for H. pylori Antigen	Neg
+Binary	NEG	Neg
+Binary	ABSENT	Neg
+Binary	Non Reactive	Neg
+Binary	NONREACTIVE	Neg
+Binary	NON-REACTIVE	Neg
+Binary	Not Detected	Neg
+Binary	Non Immune	Neg
+Binary	Neg-	Neg
+Binary	-NEG	Neg
+Binary	Neg[	Neg
+Binary	Neg:	Neg
+Binary	Neg(	Neg
+Binary	 NEG	Neg
+Binary	 NEGATIVE	Neg
+Binary	.NEG	Neg
+Binary	\NEG	Neg
+Binary	]NEG	Neg
+Binary	BEG	Neg
+Binary	BEGATIVE	Neg
+Binary	BNEG	Neg
+Binary	HEGATIVE	Neg
+Binary	MEG	Neg
+Binary	MEG.	Neg
+Binary	MEGATIVE	Neg
+Binary	MEGATOVE	Neg
+Binary	MNEG	Neg
+Binary	N EG	Neg
+Binary	NAEGATIVE	Neg
+Binary	NDGATIVE	Neg
+Binary	NEAGATIVE	Neg
+Binary	NEAGTIVE	Neg
+Binary	NEATIVE	Neg
+Binary	NEEG	Neg
+Binary	NEEGATIVE	Neg
+Binary	NEG .	Neg
+Binary	NEGAGIVE	Neg
+Binary	NEGAITVE	Neg
+Binary	NEGAIVE	Neg
+Binary	NEGATAIVE	Neg
+Binary	NEGATIAVE	Neg
+Binary	NEGATIBE	Neg
+Binary	NEGATICE	Neg
+Binary	NEGATIE	Neg
+Binary	NEGATIEV	Neg
+Binary	NEGATIIVE	Neg
+Binary	NEGATIUVE	Neg
+Binary	NEGATIV	Neg
+Binary	NEGATIVBE	Neg
+Binary	NEGATIVE'	Neg
+Binary	NEGATIVE.	Neg
+Binary	NEGATIVE\	Neg
+Binary	NEGATIVE]	Neg
+Binary	NEGATIVED	Neg
+Binary	NEGATIVEE	Neg
+Binary	NEGATIVES	Neg
+Binary	NEGATIVIE	Neg
+Binary	NEGATIVR	Neg
+Binary	NEGATIVVE	Neg
+Binary	NEGATOVE	Neg
+Binary	NEGATTIVE	Neg
+Binary	NEGATUIVE	Neg
+Binary	NEGATUVE	Neg
+Binary	NEGATVE	Neg
+Binary	NEGATVIE	Neg
+Binary	NEGATVIVE	Neg
+Binary	NEGGATIVE	Neg
+Binary	NEGHATIVE	Neg
+Binary	NEGTAIVE	Neg
+Binary	NEGTATIVE	Neg
+Binary	NEGTIVE	Neg
+Binary	NEHATIVE	Neg
+Binary	NEHGATIVE	Neg
+Binary	NEHSATIVE	Neg
+Binary	NGATIVE	Neg
+Binary	NGEATIVE	Neg
+Binary	NGEGATIVE	Neg
+Binary	NINREACTIVE	Neg
+Binary	NEGITAVE	Neg
+Binary	nNEG	Neg
+Binary	NNEGATIVE	Neg
+Binary	NOT CONFIRMED	Neg
+Binary	NOT CON	Neg
+Binary	NOT CONF	Neg
+Binary	NOT CONFIRM	Neg
+Binary	NOT CONFRIMED	Neg
+Binary	NOT DONFIRMED	Neg
+Binary	NOTCON	Neg
+Binary	NOTCONF	Neg
+Binary	NEGATI	Neg
+Binary	negativ e	Neg
+Binary	poc negative	Neg
+Binary	NNREAC	Neg
+Binary	NON REACT	Neg
+Binary	NON_REACTIVE	Neg
+Binary	NONREA	Neg
+Binary	NONREAC	Neg
+Binary	NON-REAC	Neg
+Binary	NON-REACITVE	Neg
+Binary	NONREACT	Neg
+Binary	NON-REACT	Neg
+Binary	nonreact.	Neg
+Binary	NON-REACT.	Neg
+Binary	NON-REACTIVE'	Neg
+Binary	NON-REATIVE	Neg
+Binary	NONREAVTIVE	Neg
+Binary	NON-RECTIVE	Neg
+Binary	NONTEACTIVE	Neg
+Binary	NOREACTIVE	Neg
+Binary	NotReactive	Neg
+Binary	N-REACTIVE	Neg
+Binary	CONFIRMEDNEGATIVE	Neg
+Binary	NEG'	Neg
+Binary	NEGNEG	Neg
+Binary	NoDetected	Neg
+Binary	Non-Det	Neg
+Binary	NON-DETECTED	Neg
+Binary	NONE_DETECTED	Neg
+Binary	NONE-DECTECTED	Neg
+Binary	NONE-DEDECTED	Neg
+Binary	NONE-DETECETED	Neg
+Binary	NONEDETECTED	Neg
+Binary	NONE-DETECTED	Neg
+Binary	HBV DNA NOT DETECTED	Neg
+Binary	HBV NOT DETECTED	Neg
+Binary	HCV RNA NOT DETECTED	Neg
+Binary	NONE DETECTCED	Neg
+Binary	NOT DETECTECTED	Neg
+Binary	NOT DETETECTED	Neg
+Binary	Nonedetected(Negative)	Neg
+Binary	NONE-DETECTED]	Neg
+Binary	NOT DETECT	Neg
+Binary	NotDetcted	Neg
+Binary	NotDetect	Neg
+Binary	NotDetected	Neg
+Binary	NOT DECTECTED	Neg
+Binary	NOT DETECTED.	Neg
+Binary	NOT-DETECTED	Neg
+Binary	NOT  DETECTED	Neg
+Binary	NOT DEECTED	Neg
+Binary	NOT DETECCTED	Neg
+Binary	NOTDECT	Neg
+Binary	# NO LUPUS ANTICOAGULANT FOUND	Neg
+Binary	A Lupus  anticoagulant is not detected.	Neg
+Binary	A Lupus Andicoagulant is not detected	Neg
+Binary	A Lupus Anticoagulant is not detected	Neg
+Binary	A Lupus Anticoagulant is not detected.	Neg
+Binary	A LUPUS ANTICOAGULATN IS NOT DETECTED	Neg
+Binary	LUPUS ANTICOAGAULANT IS NOT DETECTED	Neg
+Binary	LUPUS ANTICOAGULANT IS NOT DETECTED	Neg
+Binary	LUPUS ANTICOAGULANT IS NOT DETECTED.	Neg
+Binary	LUPUS ANTICOAGULANT NOT DETECTED	Neg
+Binary	NO LUPUS ANTICOAGULANT WAS DETECTED	Neg
+Binary	NO LUPUS ANTICOAGULANT WAS DETECTED.	Neg
+Binary	No Lupus detected	Neg
+Binary	NRGATIVE	Neg
+Binary	NWEG	Neg
+Binary	NWGATIVE	Neg
+Binary	ENG	Neg
+Binary	ENGATIVE	Neg
+Binary	NEG#	Neg
+Binary	NEG,	Neg
+Binary	Neg.	Neg
+Binary	NEG\	Neg
+Binary	NEG]	Neg
+Binary	NGE	Neg
+Binary	NEGITIVE	Neg
+Binary	NODETECT	Neg
+Binary	NON DETECTED	Neg
+Binary	NONDET	Neg
+Binary	NONDETEC	Neg
+Binary	NONE DET	Neg
+Binary	NONEDET	Neg
+Binary	NONEDET'	Neg
+Binary	NOT DET	Neg
+Binary	NOTDET	Neg
+Binary	NOTDETEC	Neg
+Binary	NONE DETECTED	Neg
+Binary	NOT DETCETED	Neg
+Binary	NOT DETEC	Neg
+Binary	NOT DETECTED]	Neg
+Binary	NOT DETECTETD	Neg
+Binary	NOT DETEECTED	Neg
+Binary	NOT DETETCTED	Neg
+Binary	NOT DTECTED	Neg
+Binary	NOTDETECTETD	Neg
+Binary	NOTDETETCTED	Neg
+Binary	TargetNotDetected	Neg
+Binary	HCV NOT DTECTED	Neg
+Binary	:NEG	Neg
+Binary	]NEGATIVE	Neg
+Binary	NAGATIVE	Neg
+Binary	NBEG	Neg
+Binary	NEB	Neg
+Binary	NEFG	Neg
+Binary	NEG NEG	Neg
+Binary	NEGAT	Neg
+Binary	NEGATINE	Neg
+Binary	NEGETIVE	Neg
+Binary	NEGF	Neg
+Binary	NEG'NEG	Neg
+Binary	NEGT	Neg
+Binary	NMEG	Neg
+Binary	NO DETEC	Neg
+Binary	NON DET	Neg
+Binary	NONE DECTECTED	Neg
+Binary	NONE DETEC	Neg
+Binary	None detected.	Neg
+Binary	NONE DETEDECTED	Neg
+Binary	None detetced	Neg
+Binary	NoneObs	Neg
+Binary	TARGET NOT DETECTED	Neg
+Binary	NO HCV RNA DETECTED	Neg
+Binary	HCV NOT DETECTED	Neg
+Binary	<15 IU/ml,HCV RNA NOT DETECTED	Neg
+Binary	No_HCV_RNA_Detected	Neg
+Binary	TND	Neg
+Binary	HCV RNA NOT DETECTED, <60.	Neg
+Binary	NOHCVRNADetected	Neg
+Binary	< 15 NOT DETECTED	Neg
+Binary	Hepatitis C RNA not detected.	Neg
+Binary	< 43 NOT DETECTED	Neg
+Binary	less than 12	Neg
+Binary	<15 IU/ml,HCV RNA DETECTED	Neg
+Binary	HCV RNA not detected;less than 43 IU/mL	Neg
+Binary	HCV RNA NOT DETECTED, <60	Neg
+Binary	HCV RNA Detected, < 12	Neg
+Binary	NON-DETECTABLE	Neg
+Binary	HCV RNA Target not detected	Neg
+Binary	Target Not Detected.	Neg
+Binary	HCV RNA detected, <45	Neg
+Binary	HCV RNA DETECTED, <60	Neg
+Binary	NON DETECTABLE	Neg
+Binary	<12 DETECTED	Neg
+Binary	<43 IU/mL HCV RNA DETECTED	Neg
+Binary	<15 IU/ML HCV RNA DETECTED	Neg
+Binary	NOHCVRNADetected.	Neg
+Binary	<50 IU/ML HCV RNA DETECTED 	Neg
+Binary	Not Quantified	Neg
+Binary	No HCV RNA detected.	Neg
+Binary	HCV RNA DETECTED <50	Neg
+Binary	<43 NOT DETECTED	Neg
+Binary	HCV RNA DETECTED, <30	Neg
+Binary	NO HCV RNA DETECTED BY PCR	Neg
+Binary	NOPER	Neg
+Binary	HCV RNA NOT DETECTED:<43 IU/ML	Neg
+Binary	HCV RNA Detected, < 45	Neg
+Binary	< 43 DETECTED	Neg
+Binary	HCV RNA NOT DETECTED; LESS THAN 43 IU/mL	Neg
+Binary	NOHCVRNADetected<600	Neg
+Binary	HCV RNA detected, <15 IU/mL	Neg
+Binary	DETECTED,<60	Neg
+Binary	NO HCV RNA Detected < 600	Neg
+Binary	Undetected	Neg
+Binary	<15 NOT DETECTED	Neg
+Binary	<15 (log <1.18)	Neg
+Binary	Target Detected <15 IU/mL	Neg
+Binary	0 HCV RNA	Neg
+Binary	HCV RNA not detected;<43 IU/mL	Neg
+Binary	< 15 DETECTED	Neg
+Binary	NO HCV RNA Detected < 1000	Neg
+Binary	HCVRNANOTDETECTED,<60.	Neg
+Binary	HCV RNA Detected; less than 43 IU/mL	Neg
+Binary	HCV RNA NOT DETECTED.	Neg
+Binary	<43 (log <1.63)	Neg
+Binary	HCV RNA NOT DETECTED; <43 IU/ML	Neg
+Binary	HCV RNA DETECTED, <60.	Neg
+Binary	<12_DETECTED	Neg
+Binary	< 1.18 NOT DETECTED	Neg
+Binary	< 1.63 NOT DETECTED	Neg
+Binary	<1.63 log IU/mL	Neg
+Binary	< 1.18 DETECTED	Neg
+Binary	< 1.63 DETECTED	Neg
+Binary	<1.18 not detected	Neg
+Binary	<0.70 log IU/mL	Neg
+Binary	Target Not Detectd	Neg
+Binary	Target Not Deteted	Neg
+Binary	ANTIBODY NOT DETECTED	Neg
+Binary	UND	Neg
+Binary	HEPATITIS C RNA NOT DETECTED IN THIS SAMPLE	Neg
+Binary	NDET	Neg
+Binary	NEGATIVE FOR HEPATITIS C VIRAL RNA	Neg
+Binary	UNDETECTABLE	Neg
+Binary	HCV RNA IS NOT DETECTED IN THIS SAMPLE	Neg
+Binary	NOT DET.	Neg
+Binary	NonDetected	Neg
+Binary	NoneDetect	Neg
+Binary	TARGET NOT AMPLIFIABLE	Neg
+Binary	TARGET NOT AMPLIFIED	Neg
+Binary	NOHCV-RNADETECTEDBYPCR	Neg
+Binary	NO HCV. RNA DETECTED	Neg
+Binary	NO HCV.RNA DETECTED	Neg
+Binary	INSUFFICIENT HCV RNA	Neg
+Binary	INSUFFICIENT RNA TO PERFORM	Neg
+Binary	No detectable HCV RNA present for genotyping.	Neg
+Binary	INSUFFICIENT VIRAL QUANTITY	Neg
+Binary	NodetectableHCVRNApresentforgenotyping.	Neg
+Binary	NO HCV RNA	Neg
+INSUFFICIENT RNA
+Baseline	Mkd Decreased	Marked decrease
+Baseline	DECREASED	Decrease
+Baseline	SL DECREASED	Slight decrease
+Baseline	Slt Decreased	Slight decrease
+Baseline	Low Adequate	Non-standard Result
+Baseline	Adequate	At baseline
+Baseline	SL INCREASED	Slight increase
+Baseline	Slt Increased	Slight increase
+Baseline	Increased	Increase
+Baseline	SLIGHT	Non-standard Result
+Baseline	Marked	Non-standard Result
+Size	LARGE	Large
+Size	SMALL	Small
+Count	NONE	None
+Count	NONE SEEN	None
+Count	RARE	Rare
+Count	TRACE	Trace
+Count	FEW	Few
+Count	Occasional	Occasional
+Count	Occassional	Occasional
+Count	Moderate	Moderate
+Count	MANY	Many
+Count	Innumerable	Innumerable

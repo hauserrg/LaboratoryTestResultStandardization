@@ -1,0 +1,6 @@
+﻿NOT	X
+NOT-	X
+NONE	X
+NONE-	X
+NOR	X
+

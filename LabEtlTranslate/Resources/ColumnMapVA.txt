@@ -1,0 +1,5 @@
+﻿Loinc	LOINC
+LoincScale	ScaleType
+Result	LabChemResultValue
+Abnormal	Abnormal
+LabName	Component

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etl", "YaleLabETL\Etl.csproj", "{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapInput", "LabEtlTranslate\MapInput.csproj", "{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabResultMap", "LabResultMap\LabResultMap.csproj", "{1A256CED-63D2-479A-B989-F7DC40905BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{774B8686-7D2B-4E32-9C0D-F0BB2D2A5D15}.Release|x86.ActiveCfg = Release|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B9D8DE8D-72D0-4106-A37C-E17A7818D3DF}.Release|x86.ActiveCfg = Release|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1A256CED-63D2-479A-B989-F7DC40905BC3}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

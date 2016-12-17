@@ -1,0 +1,230 @@
+﻿1a	1a
+1b	1b
+TYPE 1a	1a
+TYPE 1b	1b
+2b	2b
+3a	3a
+Type 1	1
+GENOTYPE 1a	1a
+Type 2b	2b
+GENOTYPE 1b	1b
+Type 2	2
+TYPE 3a	3a
+HCV 1	1
+HCV 3	3
+1a/1b	1a, 1b
+TYPE 3	3
+2a/2c	2a, 2c
+GENOTYPE 2b	2b
+TYPE1B	1b
+TYPE1a	1a
+TYPE1	1
+Genotype 3a	3a
+  1a	1a
+TYPE 1a/1b	1a, 1b
+1 1a	1a
+Subtype 1a	1a
+1 (NO SUBTYPE)	1
+1 UNABLE TO SUBTYPE	1
+Subtype1a	1a
+ 1a	1a
+  1b	1b
+1a or 1b	1a, 1b
+1 NO SUBTYPE	1
+TYPE 2a/2c	2a, 2c
+2a	2a
+Subtype 1b	1b
+GENOTYPE 1	1
+TYPE 1 Unable to subtype	1
+Subtype1b	1b
+1, NO SUBTYPE	1
+TYPE 4	4
+1a variant	1a
+4c/4d	4c, 4d
+4a/4c/4d	4a, 4c, 4d
+1 1b	1b
+ 1b	1b
+Type3a	3a
+Genotype 2	2
+Type2	2
+GENOTYPE1A	1a
+Subtype 2b	2b
+1(NO SUBTYPE)	1
+2a or 2c	2a, 2c
+Genotype1b	1b
+1(UNABLE TO SUBTYPE)	1
+HCV 2	2
+Subtype3a	3a
+2 NO SUBTYPE	2
+Subtype 3a	3a
+2 (NO SUBTYPE)	2
+TYPE1Unabletosubtype	1
+4a	4a
+2a/c	2a, 2c
+3 no subtype	3
+  2b	2b
+1,NO SUBTYPE	1
+1(NOSUBTYPE)	1
+TYPE2b	2b
+HEPATITIS C VIRUS GENOTYPE 1A IS DETECTED	1a
+Subtype2b	2b
+2 UNABLE TO SUBTYPE	2
+  3a	3a
+1 a	1a
+TARGET NOT AMPLIFIED None
+GENOTYPE 2A/2C	2a, 2c
+TYPE 3 Unable to subtype	3
+ 2b	2b
+1,1a	1a
+3e	3e
+GENOTYPE 1A/1B	1a, 1b
+Type1a/1b	1a, 1b
+2(NO SUBTYPE)	2
+TYPE 1a OR 1b	1a, 1b
+TYPE 2 Unable to subtype	2
+TYPE 4a/4c/4d	4a, 4c, 4d
+1 b	1b
+ 3a	3a
+NO HCV-RNA DETECTED BY PCR	None
+TARGET NOT AMPLIFIABLE None
+UNABLE TO GENOTYPE	None
+Insufficient viral quantity for genotyping	None
+Insufficientviralquantityforgenotyping	None
+1	1
+2	2
+3	3
+4	4
+ 1	1
+  1	1
+ 3	3
+Subtype2a/2c	2a, 2c
+GENOTYPE 4	4
+1a & 1b	1a, 1b
+4 no subtype	4
+TYPE 1, NO SUBTYPE	1
+4ACD	4a, 4c, 4d
+GENOTYPE 4a/4c/4d	4a, 4c, 4d
+GENOTYPE3A	3a
+GENOTYPE 2a	2a
+GENOTYPE1	1
+1 ONLY	1
+2, No Subtype	2
+1, 1a	1a
+2(NoSubtype)	2
+HEPATITIS C VIRUS GENOTYPE 1B IS DETECTED	1b
+Subtype 2a/2c	2a, 2c
+TYPE2a/2c	2a, 2c
+1A/2B	1a, 2b
+2c	2c
+TYPE2Unabletosubtype	2
+GENOTYPE 3	3
+Genotype2b	2
+Type 2a OR 2c	2a, 2c
+la	1a
+1a \T\ 1b	1a, 1b
+Type 4c/4d	4c, 4d
+1a/b	1a, 1b
+1,1b	1b
+1 NOSUBTYPE	1
+GENOTYPE 2a OR 2c	2a, 2c
+1NOSUBTYPE	1
+2 b	2b
+1a,1b	1a, 1b
+3 ONLY	3
+HEPATITIS C VIRUS GENOTYPE 2B IS DETECTED 	2b
+1UNABLETOSUBTYPE	1
+TYPE 4 UNABLE TO SUBTYPE	4
+2 ns	2
+6	6
+TYPE 2a	2a
+HEPATITIS C VIRUS GENOTYPE 3 IS DETECTED	3
+1b/2b	1b, 2b
+1c	1c
+1&4	1, 4
+2(unable to subtype)	2
+4 unable to subtype	4
+3c	3c
+Subtype 2a	2a
+1a and 4	1a, 4
+1a and 1b	1a, 1b
+3d	3d
+Subtype1a/1b	1a, 1b
+1,b	1b
+1&2	1, 2
+4e	4e
+2,NO SUBTYPE	2
+TYPE 2, NO SUBTYPE	2
+5a	5a
+Type4	4
+Type I	1
+1 & 2	1, 2
+4b	4b
+1a,4	1a, 4
+GENOTYPE 4a	4a
+4a4c4d	4a, 4c, 4d
+3 a	3a
+2a2c	2a, 2c
+1a & 2b	1a, 2b
+1/2b	1, 2b
+2 NOSUBTYPE	2
+Type 1, Unable to Subtype	1
+1A AND 2	1a, 2
+CANNOT GENOTYPE	None
+UNABLE TO SUBTYPE	None
+UNABLETOGENOTYPE	None
+UNABLE TO TYPE	None
+TYPE1,NOSUBTYPE	1
+Type4c/4d	4c, 4d
+3 UNABLE TO SUBTYPE	3
+Genotype 4c/4d	4c, 4d
+Subtype 1a/1b	1a, 1b
+TYPE 1,NO SUBTYPE	1
+TYPE 1 NO SUBTYPE	1
+Type1,Unabletosubtype	1
+TYPE 1a/2	1a, 2
+TYPE 2a/c	2a, 2c
+TYPE 1 (NO SUBTYPE)	1
+Hepatitis C virus genotype 1a detected.	1a
+Genotype 6	6
+4 (No Subtype)	4
+4, NO SUBTYPE	4
+TYPE  1a	1a
+Subtype 4c/4d	4c, 4d
+Subtype4c/4d	4c, 4d
+TYPE 5	5
+TYPE4Unabletosubtype	4
+TYPE3	3
+GENTYPE 1A	1a
+2NOSUBTYPE	2
+1-NO SUBTYPE	1
+GENOTYPE 3d	3d
+GENOTYPE = 1b	1b
+GENOTYPE 1, SUBTYPE 1b	1b
+6(subtypes c-l)	6
+GENOTYPE-1a	1a
+4 NOSUBTYPE	4
+HEPATITIS C VIRUS GENOTYPE IS 1A	1a
+TYPE  1b	1b
+TYPE 1 b	1b
+TYPE 1-NO SUBTYPE	1
+TYPE 1/TYPE 2 COINFECTION	1, 2
+TYPE=1a	1a
+TYPE 6	6
+TYPE 2,NO SUBTYPE	2
+TYPE 1a/2b	1a, 2b
+TYPE 1B/2	1b, 2
+Type 1a with possible coinfection Type 2	1a, 2
+TYPE 1b.	1b
+TYPE 2A / 2C	2a, 2c
+Type 5a	5a
+TYPE 1/2 COINFECTION	1, 2
+TYPE 1 & TYPE 2	1, 2
+SUBTYPE 1	1
+1 (unable to subtype)	1
+1 NO SUBTYPE DETERMINED	1
+GENOTYPE-1b	1b
+GENOTYPE-2b	2b
+GENOTYPE2	2
+GENOTYPE4	4
+GENOTYPE 1,NO SUBTYPE	1
+GENOTYPE 1, SUBTYPE 1a	1a

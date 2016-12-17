@@ -1,0 +1,6 @@
+﻿Loinc	loinc_code
+LoincScale	LoincScale
+Result	ord_value
+Abnormal	result_flag_c
+LabName	EXTERNAL_NAME
+LabId	result_lab_id

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A256CED-63D2-479A-B989-F7DC40905BC3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LabResultMap</RootNamespace>
+    <AssemblyName>LabResultMap</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\log4net.2.0.3\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="SharedLibrary">
+      <HintPath>..\..\..\SharedLibrary\bin\Debug\SharedLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Helper\Helper.cs" />
+    <Compile Include="Hierarchy\LabResultMap.cs" />
+    <Compile Include="Hierarchy\LabResultMapYale.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleHepCGenotype.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleNom_Ga.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleNom_Abo.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleNom_AboRh.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleNom.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn_IgEAb.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn_ViralLoad.cs" />
+    <Compile Include="Hierarchy\LabResultMapYale_DateTime.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn_RemoveUnitsEnd.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn_Immune.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn_Log10.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleOrd_FirstOrLast.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleOrd.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleNotALab.cs" />
+    <Compile Include="Hierarchy\LabResultMapYale_LowPriority.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleReviewSourceData.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn_Million.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn_Calc.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn_Range.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn_Titer.cs" />
+    <Compile Include="Hierarchy\LabResultMapYaleQn.cs" />
+    <Compile Include="Hierarchy\LabResultMapYale_Any.cs" />
+    <Compile Include="LabList\LabList.cs" />
+    <Compile Include="LabList\ResLabList.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ResLabList.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Constants\Resource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Queries\Resource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Constants\ColumnMap.txt" />
+    <Content Include="Constants\GeneralResults.txt" />
+    <Content Include="Constants\LabMapYale_HepCGenotype.txt" />
+    <Content Include="Constants\LabMapYale_NegationWords.txt" />
+    <Content Include="Constants\LabMapYale_LowPriority.txt" />
+    <Content Include="Constants\LabMapYale_Loinc.txt" />
+    <Content Include="Constants\LabMapYale_Nom.txt" />
+    <Content Include="Constants\LabMapYale_Scale.txt" />
+    <Content Include="Constants\LabMapYale_Ord.txt" />
+    <Content Include="Constants\Helper_Units.txt" />
+    <Content Include="Constants\LabMapYale_ViralLoad.xml" />
+    <Content Include="Constants\LabResultMapYaleQn_Million.txt" />
+    <Content Include="LabList\LoincListFromExtract.sql" />
+    <Content Include="LabList\LoincLookup.sql" />
+    <Content Include="Queries\AddColumnsToTransform.sql" />
+    <Content Include="Queries\AddResultColumn.sql" />
+    <Content Include="Queries\AddResultTable.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Constants\Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LabList\ResLabList.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResLabList.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Queries\Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

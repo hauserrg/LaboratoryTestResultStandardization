@@ -1,0 +1,33 @@
+﻿General	Normal	Normal
+Color	Clear	Clear
+Color	Cloudy	Cloudy
+Color	Hazy	Hazy
+Color	Turbid	Turbid
+Color	Colorless	Colorless
+Color	Pale Yellow	Pale Yellow
+Color	Yellow	Yellow
+Color	Dk Yellow	Dark Yellow
+Color	Orange	Orange
+Color	Amber	Amber
+Color	Ltbrn	Light Brown
+Color	Red	Red
+Color	White	White
+Color	Black	Black
+PlateletMorph	Large	Large
+PlateletMorph	Occ Large	Occasional Large
+ANA	Homogeneous	Homogeneous
+Culture	No growth after 5 days of incubation.	Neg
+Culture	No Growth	Neg
+Culture	Less than 10,000 cfu/mL	Neg
+Culture	AFTER 5 DAYS, CULTURE NEGATIVE AND DISCARDED	Neg
+Culture	AFTER 48 HOURS, CULTURE NEGATIVE AND DISCARDED.	Neg
+Culture	No WBC's and No organisms seen	Neg
+Culture	NO ANAEROBES ISOLATED	Neg
+Culture	No Acid Fast Bacilli seen	Neg
+Culture	No parasites seen	Neg
+Culture	NO POLYS OR BACTERIA SEEN	Neg
+Culture	1+ Normal Flora	Neg
+Culture	3+ Normal Flora	Neg
+Culture	2+ Normal Flora	Neg
+Culture	4+ Normal Flora	Neg
+Culture	NORMAL GENITAL FLORA	Neg

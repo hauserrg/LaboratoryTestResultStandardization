@@ -1,0 +1,249 @@
+﻿10333-3	(Color) Appearance in CSF
+11138-5	M:E ratio in bone marrow
+12258-0	(Urine sediment) Epithelial cell in urine sediment
+13351-2	Leukocytes other [#/volume] in CSF)
+13528-5	Unidentified cells / 100 leukocytes in body fluid
+13655-6	Leukocytes [Presence] in Stool by Light microscopy
+13945-1	Erythrocytes in urine sediment
+14620-9	(Color) Appearance of pleural fluid
+14621-7	(Color) Appearance of peritoneal fluid
+14638-1	Calculus analysis
+14664-7	(Color) Color of synovial fluid
+14860-1	Leukocytes other / 100 leukocytes in synovial fluids
+2335-8	Hemoglobin in stool
+2340-8	Glucose in blood by automated test stripe
+2951-2	Sodium [Moles/volume] in Serum or Plasma
+29605-3	(Color) Appearance of synovial fluid
+30409-7	Leukocytes other / 100 leukocytes in peritoneal fluid
+30554-0	HIV reverse transcriptase gene mutation
+33630-5	HIV protease gene mutation
+5048-4	(ANA) Nuclear Ab titer by IF
+5767-9	(Color) Appearance of urine
+5778-6	(Color) Color of urine
+5781-0	Crystals in synovial fluid
+5796-8	Hyaline casts [#/area] in Urine sediment
+5799-2	Leukocyte esterase [Presence] in Urine by Test strip
+5808-1	Erythrocytes in urine sediment
+5821-4	Leukocytes in urine sediment
+5909-7	Blood smear finding, blood, light microscope
+730-2	Leukocytes other in blood, manual count
+742-7	Monocytes [#/volume] in Blood by Automated count
+778-1	Platelets in blood, manual count
+8247-9	Mucus in urine sediment by light microscopy
+9317-9	Platelet adequacy in blood by light microscopy
+9704-8	Spermatozoa [Morphology] in Semen
+9795-6	(Composition in stone)
+14660-5	Color of Peritoneal fluid
+3127-8	Viscosity of Body fluid
+13514-5	Hemoglobin pattern [interpretation] in Blood by Electrophoresis Narrative
+8061-4	Nuclear Ab [Presence] in Serum
+5902-2	Prothrombin time (PT) in Platelet poor plasma by Coagulation assay
+14611-8	Nuclear Ab pattern [interpretation] in Serum
+10335-8	Color of Cerebral spinal fluid
+13299-3	HLA-B [Type]
+29953-7	Nuclear Ab [Titer] in Serum
+33893-9	Karyotype [Identifier] in Bone marrow Nominal
+13298-5	HLA-A [Type]
+11158-3	Appearance of Serum
+20409-9	Erythrocytes [#/volume] in Urine by Test strip
+5567-3	Acetone [Presence] in Serum or Plasma
+33195-9	Viable cells/100 cells in Bone marrow
+14979-9	Activated partial thromboplastin time (aPTT) in Platelet poor plasma by Coagulation assay
+2885-2	Protein [Mass/volume] in Serum or Plasma
+14950-0	Viscosity of Synovial fluid Qualitative
+2075-0	Chloride [Moles/volume] in Serum or Plasma
+713-8	Eosinophils/100 leukocytes in Blood by Automated count
+9802-0	Size [Entitic volume] of Stone
+1751-7	Albumin [Mass/volume] in Serum or Plasma
+704-7	Basophils [#/volume] in Blood by Automated count
+4548-4	Hemoglobin A1c/Hemoglobin.total in Blood
+19803-6	Specimen site Narrative
+32727-0	Urobilinogen [Units/volume] in Urine
+2965-2	Specific gravity of Urine
+5804-0	Protein [Mass/volume] in Urine by Test strip
+6690-2	Leukocytes [#/volume] in Blood by Automated count
+706-2	Basophils/100 leukocytes in Blood by Automated count
+10701-1	(Parasite) Ova and parasites identified in Stool by Concentration
+5797-6	Ketones [Mass/volume] in Urine by Test strip
+731-0	Lymphocytes [#/volume] in Blood by Automated count
+13302-5	HLA-C [Type]
+11118-7	Plasma cells/100 cells in Bone marrow by Manual count
+711-2	Eosinophils [#/volume] in Blood by Automated count
+20999-9	Cell Fractions/Differential [interpretation] in Body fluid
+10839-9	Troponin I.cardiac [Mass/volume] in Serum or Plasma
+2157-6	Creatine kinase [Enzymatic activity/volume] in Serum or Plasma
+14957-5	Microalbumin [Mass/volume] in Urine
+1994-3	Calcium.ionized [Moles/volume] in Blood
+6469-1	Microscopic observation [Identifier] in Stool by Trichrome stain
+19145-2	Reference lab test name
+30408-9	Leukocytes other/100 leukocytes in Pleural fluid
+13457-7	Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation
+6824-7	Color of Body fluid
+5643-2	Ethanol [Mass/volume] in Serum or Plasma
+20513-8	Turbidity of Body fluid Qualitative
+27396-1	Hemoglobin.gastrointestinal [Mass/mass] in Stool
+3128-6	Viscosity of Serum
+770-8	Neutrophils/100 leukocytes in Blood by Automated count
+13068-2	(ANA) Nuclear Ab pattern [interpretation] in Serum by Immunofluorescence
+5803-2	pH of Urine by Test strip
+24469-9	Hemoglobin XXX/Hemoglobin.total in Blood by Electrophoresis
+19244-3	Character of Urine
+789-8	Erythrocytes [#/volume] in Blood by Automated count
+5117-7	Cryoglobulin [Presence] in Serum
+1753-3	Albumin [Presence] in Urine
+20398-4	(ANA) Nuclear Ab Pattern Homogenous [Titer] in Serum
+31208-2	Specimen source [Identifier] of Unspecified specimen
+19161-9	Urobilinogen [Units/volume] in Urine by Test strip
+32167-9	(Color) Clarity of Urine
+9785-7	(Parasite) Deprecated Microscopic observation [Identifier] in Stool by Ova and Parasite Preparation
+9335-1	(Color) Appearance of Body fluid
+31411-2	Herpes simplex virus 1+2 IgG Ab [Units/volume] in Serum
+11067-6	Bleeding time
+14330-5	Polymorphonuclear cells/100 leukocytes in Stool by Manual count
+751-8	Neutrophils [#/volume] in Blood by Automated count
+5905-5	Monocytes/100 leukocytes in Blood by Automated count
+6742-1	Erythrocyte morphology finding [Identifier] in Blood
+29770-5	Karyotype [Identifier] in Blood or Tissue Nominal
+11127-8	Erythrocytes [Morphology] in Bone marrow
+3167-4	Volume of 24 hour Urine
+28009-9	Volume of Urine
+1975-2	Bilirubin.total [Mass/volume] in Serum or Plasma
+3251-6	Fibrin+Fibrinogen fragments [Units/volume] in Platelet poor plasma by Latex agglutination
+5811-5	Specific gravity of Urine by Test strip
+14858-5	Leukocytes other/100 leukocytes in Pleural fluid by Manual count
+5818-0	Urobilinogen [Presence] in Urine by Test strip
+14743-9	Glucose [Moles/volume] in Capillary blood by Glucometer
+34984-5	Unidentified cells/100 leukocytes in Synovial fluid
+34982-9	Unidentified cells/100 leukocytes in Peritoneal fluid
+33903-6	Ketones [Presence] in Urine
+13349-6	Leukocytes [#/volume] in Stool by Manual count
+5946-9	Activated partial thromboplastin time (aPTT).factor substitution in Platelet poor plasma by Coagulation assay --immediately after addition of normal plasma
+10535-3	Digoxin [Mass/volume] in Serum or Plasma
+13306-6	HLA-DR beta [Type]
+13969-1	Creatine kinase.MB [Mass/volume] in Serum or Plasma
+13305-8	HLA-DQ [Type]
+13304-1	HLA-DR [Type]
+14959-1	Microalbumin/Creatinine [Mass Ratio] in Urine
+2028-9	Carbon dioxide, total [Moles/volume] in Serum or Plasma
+5894-1	Prothrombin time (PT) actual/normal in Platelet poor plasma by Coagulation assay
+18314-5	Morphology [interpretation] in Blood Narrative
+2161-8	Creatinine [Mass/volume] in Urine
+6099-6	IgE Ab
+6156-4	IgE Ab
+6085-5	IgE Ab
+6833-8	IgE Ab
+30170-5	IgE Ab
+6092-1	IgE Ab
+6096-2	IgE Ab
+6109-3	IgE Ab
+7155-5	IgE Ab
+6195-2	IgE Ab
+6278-6	IgE Ab
+6020-2	IgE Ab
+6098-8	IgE Ab
+15283-5	IgE Ab
+6095-4	IgE Ab
+6189-5	IgE Ab
+6153-1	IgE Ab
+7074-8	IgE Ab
+6041-8	IgE Ab
+7369-2	IgE Ab
+6110-1	IgE Ab
+6265-3	IgE Ab
+7650-5	IgE Ab
+7425-2	IgE Ab
+6834-6	IgE Ab
+7186-0	IgE Ab
+10900-9	Hepatitis Ab
+13950-1	Hepatitis Ab
+13951-9	Hepatitis Ab
+13952-7	Hepatitis Ab
+16128-1	Hepatitis Ab
+16935-9	Hepatitis Ab
+22322-2	Hepatitis Ab
+24113-3	Hepatitis Ab
+32019-2	Hepatitis Ab
+5193-8	Hepatitis Ab
+5195-3	Hepatitis Ab
+5196-1	Hepatitis Ab
+12286-1	Drugs of Abuse
+14314-9	Drugs of Abuse
+14316-4	Drugs of Abuse
+18282-4	Drugs of Abuse
+19261-7	Drugs of Abuse
+19270-8	Drugs of Abuse
+19283-1	Drugs of Abuse
+19291-4	Drugs of Abuse
+19295-5	Drugs of Abuse
+19299-7	Drugs of Abuse
+19343-3	Drugs of Abuse
+19359-9	Drugs of Abuse
+19362-3	Drugs of Abuse
+19550-3	Drugs of Abuse
+3390-2	Drugs of Abuse
+3397-7	Drugs of Abuse
+3773-9	Drugs of Abuse
+5644-0	Drugs of Abuse
+16249-5	Drugs of Abuse Confirm
+19289-8	Drugs of Abuse Confirm
+18390-5	Drugs of Abuse Confirm
+19298-9	Drugs of Abuse Confirm
+19282-3	Drugs of Abuse Confirm
+20453-7	Urine sediment
+13654-9	Urine sediment
+5793-5	Urine sediment
+12248-1	Urine sediment
+11277-1	Urine sediment
+25145-4	Urine sediment
+8248-7	Urine sediment
+8249-5	Urine sediment
+5820-6	Urine sediment
+26052-1	Urine sediment
+28545-2	Urine sediment
+5807-3	Urine sediment
+24365-9	Urine sediment
+5798-4	Urine sediment
+12454-5	Urine sediment
+12210-1	Urine sediment
+5782-8	Urine sediment
+5787-7	Urine sediment
+30089-7	Urine sediment
+21033-6	Urine sediment
+2744-1	Arterial blood gas
+2714-4	Arterial blood gas
+1960-4	Arterial blood gas
+2019-8	Arterial blood gas
+2703-7	Arterial blood gas
+30313-1	Arterial blood gas
+32354-3	Arterial blood gas
+2615-3	Arterial blood gas
+19225-2	Arterial blood gas
+19218-7	Arterial blood gas
+2708-6	Arterial blood gas
+2030-5	Arterial blood gas
+2518-9	Arterial blood gas
+34581-9	Arterial blood gas
+32717-1	Arterial blood gas
+21232-4	Arterial blood gas
+1990-1	Arterial blood gas
+32713-0	Arterial blood gas
+2889-4	Quant 24Hr Urine
+2162-6	Units
+5802-4	Units
+2160-0	Units
+2857-1	Units
+2164-2	Units
+2345-7	Units
+29247-4	Units
+3893-5	Units
+30078-0	Units
+2350-7	Units
+21008-8	HIV RNA
+29615-2	HepB DNA
+6476-6	Mumps virus Ab (Immune)
+5244-9	Measles virus Ab (Immune)
+5403-1	Varicella zoster Ab (Immune)
+15129-1	D-dimer (Deprecated)
+10622-9	Spermatozoa Normal/100 (Semen)
+13359-5	Character of semen (Semen)(Color)
+6800-7	Spermatozoa motile/100 (Semen)

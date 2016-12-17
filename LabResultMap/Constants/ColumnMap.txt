@@ -1,0 +1,3 @@
+﻿1	LOINC
+2	ScaleType
+3	LabChemResultValue

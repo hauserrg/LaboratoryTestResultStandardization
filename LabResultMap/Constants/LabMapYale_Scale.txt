@@ -1,0 +1,8 @@
+﻿Qn	LabMapYaleQn
+Ord	LabMapYaleOrd
+OrdQn	
+Nom	LabMapYaleNom
+Nar	
+Multi	
+Doc	
+Set	

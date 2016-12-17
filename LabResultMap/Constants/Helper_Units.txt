@@ -1,0 +1,52 @@
+﻿C	Cel
+F	[degF]
+mIU/mL	m[IU]/L
+nIU/mL	n[IU]/L
+IU/ml	IU/mL
+IU/ml.	IU/mL
+HCV IU/mL	IU/mL
+/uL	/uL
+ul	uL
+u/L	U/L
+ML	mL
+CC	mL
+MLS	mL
+ml's	mL
+ml.	mL
+mls.	mL
+/ml	/mL
+mg	mg
+G	g
+gm	g
+gms	g
+grams	g
+gm/dl	g/dL
+mcg/ml	ug/mL
+mg/dl	mg/dL
+mg24hrs	mg/(24.h)
+mg/24hr	mg/(24.h)
+mg/24 hr	mg/(24.h)
+mg/24h	mg/(24.h)
+mg/24 hr.	mg/(24.h)
+mg/24hrs	mg/(24.h)
+mg/24 hrs	mg/(24.h)
+mg/24.hrs	mg/(24.h)
+mg/24.0hrs	mg/(24.h)
+mg/224 hr	mg/(24.h)
+gm/24 hr.	g/(24.h)
+gm/24hr	g/(24.h)
+mg/d	mg/d
+G/24hr	g/(24.h)
+G/24hrs	g/(24.h)
+ng/mL	ng/mL
+u/ml	U/mL
+ug/l	ug/L
+g/tv	"g/(TotalVolume)"
+%	%
+pg/mL	pg/mL
+copies/ml	{copies}/mL
+copies /ml	{copies}/mL
+cop/ml	{copies}/mL
+c/ml	{copies}/mL
+copies	{copies}/mL
+HCVcopy/ml	{copies}/mL
