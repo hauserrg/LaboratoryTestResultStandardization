@@ -50,14 +50,22 @@ namespace LabResultMap
                     //">1" is different than "1<"...flip the inequality
                     if (m.Groups["Inequality"].ToString() != String.Empty)
                     {
-                        if (m.Groups["Inequality"].ToString() == "<")
+                        if (m.Groups["Inequality"].ToString() == "<"){
+                            input["Pretty"] = ">" + num.ToString();
                             input["Inequality"] = ">";
-                        else if (m.Groups["Inequality"].ToString() == "<=")
+                        }
+                        else if (m.Groups["Inequality"].ToString() == "<="){
+                            input["Pretty"] = ">=" + num.ToString();
                             input["Inequality"] = ">=";
-                        else if (m.Groups["Inequality"].ToString() == ">")
+                        }
+                        else if (m.Groups["Inequality"].ToString() == ">"){
+                            input["Pretty"] = "<" + num.ToString();
                             input["Inequality"] = "<";
-                        else if (m.Groups["Inequality"].ToString() == ">=")
+                        }
+                        else if (m.Groups["Inequality"].ToString() == ">="){
+                            input["Pretty"] = "<=" + num.ToString();
                             input["Inequality"] = "<=";
+                        }
                         else
                             throw new Exception("Unrecognized inequality.");
                     }
@@ -104,7 +112,10 @@ namespace LabResultMap
                             input["Field1"] = num2.ToString();
                     }
                     if (m.Groups["Inequality"].ToString() != String.Empty)
+                    {
+                        input["Pretty"] = m.Groups["Inequality"].ToString() + num.ToString();
                         input["Inequality"] = m.Groups["Inequality"].ToString();
+                    }
                     
                     return true;
                 }
