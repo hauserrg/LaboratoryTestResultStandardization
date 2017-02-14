@@ -79,3 +79,6 @@ C:\Users\rgh28\Desktop\LabRS\YaleLabETL\obj\Debug\MapResult.Settings.Resource.re
 C:\Users\rgh28\Desktop\LabRS\YaleLabETL\obj\Debug\Etl.csproj.GenerateResource.Cache
 C:\Users\rgh28\Desktop\LabRS\YaleLabETL\obj\Debug\MapResult.exe.manifest
 C:\Users\rgh28\Desktop\LabRS\YaleLabETL\obj\Debug\MapResult.application
+C:\Users\rgh28\Source\Repos\LaboratoryTestResultStandardization\YaleLabETL\bin\Debug\MapResult.exe.config
+C:\Users\rgh28\Source\Repos\LaboratoryTestResultStandardization\YaleLabETL\obj\Debug\MapResult.exe
+C:\Users\rgh28\Source\Repos\LaboratoryTestResultStandardization\YaleLabETL\obj\Debug\MapResult.pdb
